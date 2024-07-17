@@ -336,6 +336,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Wilds Texture Pack](https://github.com/NataKilar/Balatro-Wilds) - Retextures all planet cards to astral bodies from the game Outer Wilds. by [@NataKilar](https://github.com/NataKilar)
 - [Trans Spectrals](https://discord.com/channels/1116389027176787968/1247528518842191971) - Spectral Cards (and spectral adjacent cards) but trans Spectrans. by `@RadicaAprils`
 - [Spectralsbian](https://discord.com/channels/1116389027176787968/1248729661815521381) - Spectral cards, but with the lesbian flag colours. by `@RadicaAprils`
+- [Undertale Yellow Deck](https://discord.com/channels/1116389027176787968/1262614112224153642) - Replaces the base deck of cards with the talk sprites of undertale yellow characters. by '@dewutt610'
 
 ### Translates
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
